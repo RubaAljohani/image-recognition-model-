@@ -1,0 +1,2 @@
+0 damaged
+1 intact
