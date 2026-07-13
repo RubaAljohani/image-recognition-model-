@@ -21,6 +21,8 @@ The model was trained using two image classes:
 | Damaged | Packages that appear crushed, torn, broken, or not in good condition |
 | Intact | Packages that appear clean, complete, and in good condition |
 
+
+![Classes Screenshot](Screenshot%202026-07-13%20172043.png)
 ## Dataset
 
 The dataset was found on kaggle( url: https://www.kaggle.com/datasets/rahulm7323/damaged-and-intact-packages), it  contains images of damaged and intact packages.  
