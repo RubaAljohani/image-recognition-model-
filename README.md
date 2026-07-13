@@ -37,3 +37,20 @@ dataset/
 └── test/
     ├── damaged/
     └── intact/
+```
+## Results
+
+The model was evaluated on the test dataset. The final evaluation result was:
+
+| Metric | Value |
+|---|---:|
+| Total Test Images | 116 |
+| Correct Predictions | 100 |
+| Wrong Predictions | 16 |
+| Accuracy | 86.21% |
+
+### Output Screenshots
+
+![Evaluation Output 1](Screenshot%202026-07-13%20180837.png)
+
+![Evaluation Output 2](Screenshot%202026-07-13%20183308.png)
